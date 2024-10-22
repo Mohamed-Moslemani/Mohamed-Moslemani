@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-moslemani" alt="mohamed-moslemani" /></a> </p>
 
-- 🔭 I’m currently working on [multiple data analysis projects](https://github.com/Mohamed-Moslemani/Data-Analysis-Notebooks)
-
 - 🌱 I’m currently learning **advanced computational methods in science**
-
-- 👯 I’m looking to collaborate on [Gymnas-tech](https://github.com/Mohamed-Moslemani/Gymnas-tech)
-
-- 🤝 I’m looking for help with [machine learning in java](https://github.com/Mohamed-Moslemani/machine-learning-in-java)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohamed-Moslemani](https://github.com/Mohamed-Moslemani)
 
