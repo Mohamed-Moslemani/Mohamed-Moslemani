@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-moslemani" alt="mohamed-moslemani" /></a> </p>
 
-- 🌱 I’m currently learning **advanced computational methods in science**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Mohamed-Moslemani](https://github.com/Mohamed-Moslemani)
 
 - 📝 I regularly write articles on [https://meselmanysblog.wordpress.com/](https://meselmanysblog.wordpress.com/)
 
-- 💬 Ask me about **advanced theoretical concepts in machine learning and deep learning**
+- 💬 Deeply interested in **advanced theoretical concepts in machine learning and deep learning**
 
-- 📫 How to reach me **mohamad.meselmany@hotmail.com**
+- 📫 Reach me at: **mohamad.meselmany@hotmail.com**
 
-- ⚡ Fun fact **In 1956, the term Artificial Intelligence was first coined at the Dartmouth Conference by John McCarthy and his team, marking the birth of AI as a field. Interestingly, just a decade earlier, physicist Alan Turing laid the groundwork for AI with his concept of the "Turing Machine," which could simulate the logic of any algorithm. Physics and AI have been intertwined since the early days!**
+- ⚡ Fun fact: **AI techniques, especially machine learning, are now used to simulate complex physical systems like black holes and quantum particles. Interestingly, some neural networks have even been inspired by physical models, such as how certain quantum systems behave—blurring the line between theoretical physics and AI!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
