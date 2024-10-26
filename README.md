@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://meselmanysblog.wordpress.com/](https://meselmanysblog.wordpress.com/)
 
-- 💬 Deeply interested in **advanced theoretical concepts in machine learning and deep learning**
+- 💬 Deeply interested in **theoretical concepts in machine learning and deep learning, advances in quantum computing and information theory, a bit of Lord of The Rings and The Hobbit, and cool football tactics.**
 
 - 📫 Reach me at: **mohamad.meselmany@hotmail.com**
 
