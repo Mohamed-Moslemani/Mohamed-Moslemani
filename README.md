@@ -1,6 +1,6 @@
-<h1 align="center">🌌 Welcome to My GitHub Universe</h1>
-<h3 align="center">Physicist | Data Scientist | AI Explorer</h3>
-<p align="center">A journey where data meets creativity. Explore my projects, dive into AI, automation, and beyond!</p>
+<h1 align="center" style="color: #0e75b6;">🌌 Welcome to My GitHub Universe</h1>
+<h3 align="center" style="color: #0e75b6;">👨‍🔬 Physicist | Data Scientist</h3>
+<p align="center" style="color: #333;">A journey where data meets creativity. Explore my projects, dive into AI, automation, and beyond!</p>
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-<h3 align="left">🌐 Connect with Me</h3>
+<h3 align="left" style="color: #0e75b6;">🌐 Connect with Me</h3>
 <p align="left">
     <a href="https://linkedin.com/in/mohamed-moslemani" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
@@ -32,7 +32,7 @@
     </a>
 </p>
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+<h3 align="left" style="color: #0e75b6;">🛠️ Languages & Tools</h3>
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
@@ -77,7 +77,7 @@
 
 ---
 
-<h3 align="left">📈 GitHub Stats</h3>
+<h3 align="left" style="color: #0e75b6;">📈 GitHub Stats</h3>
 <p align="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-moslemani&show_icons=true&locale=en&layout=compact&theme=blue" alt="Top Languages" />
 </p>
