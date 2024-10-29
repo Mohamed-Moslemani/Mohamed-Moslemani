@@ -1,87 +1,59 @@
-<h1 align="center" style="color: #0e75b6;">🌌 Welcome to My GitHub Universe</h1>
-<h3 align="center" style="color: #0e75b6;">👨‍🔬 Physicist | Data Scientist</h3>
-<p align="center" style="color: #333;">A journey where data meets creativity. Explore my projects, dive into AI, automation, and beyond!</p>
+<h2 align="left">Hi 👋! My name is Mohamed Moslemani and I'm a Physicist | Data Scientist, from Lebanon</h2>
 
----
+###
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=mohamed-moslemani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-moslemani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-moslemani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=mohamed-moslemani&theme=blue" alt="GitHub Trophy" />
-    </a>
-</p>
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<p align="center">🌌 A journey where data meets creativity. Dive into AI, automation, and beyond!</p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" height="30" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://linkedin.com/in/mohamed-moslemani" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://kaggle.com/msl3122" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo"  />
+  </a>
+  <a href="mailto:mohamad.meselmany@hotmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 - 👨‍💻 Discover all my projects at [GitHub Profile](https://github.com/Mohamed-Moslemani)
 - 📝 Catch my latest articles at [My Blog](https://meselmanysblog.wordpress.com/)
 - 💬 Topics of interest: **theoretical machine learning, quantum computing, information theory, The Lord of The Rings, and football tactics**
-- 📫 Reach me via email: **mohamad.meselmany@hotmail.com**
 - ⚡ Fun Fact: **AI techniques are now used to simulate complex systems like black holes and quantum particles, blending theoretical physics with AI advancements!**
 
----
+###
 
-<h3 align="left" style="color: #0e75b6;">🌐 Connect with Me</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/mohamed-moslemani" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-    </a>
-    <a href="https://kaggle.com/msl3122" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40" />
-    </a>
-</p>
+<br clear="both">
 
-<h3 align="left" style="color: #0e75b6;">🛠️ Languages & Tools</h3>
-<p align="left">
-    <a href="https://aws.amazon.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    </a>
-    <a href="https://kubernetes.io" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
-    <a href="https://pytorch.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-    </a>
-</p>
-
----
-
-<h3 align="left" style="color: #0e75b6;">📈 GitHub Stats</h3>
-<p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-moslemani&show_icons=true&locale=en&layout=compact&theme=blue" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-moslemani&show_icons=true&locale=en&theme=blue" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-moslemani&theme=blue" alt="GitHub Streak" /></p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
