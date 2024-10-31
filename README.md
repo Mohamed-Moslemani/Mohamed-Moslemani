@@ -90,7 +90,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/mohamed-moslemani/mohamed-moslemani/raw/output/snake.svg)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/mohamed-moslemani/count.svg?" alt="Profile counter" />
