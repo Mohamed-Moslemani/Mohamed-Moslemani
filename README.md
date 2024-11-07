@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-moslemani" alt="mohamed-moslemani" /></a> </p>
 
-- 🔭 I’m currently working on [multiple data analysis projects](https://github.com/Mohamed-Moslemani/Data-Analysis-Notebooks)
-
-- 🌱 I’m currently learning **advanced computational methods in science**
-
 - 📝 I regularly write articles on [https://meselmanysblog.wordpress.com/](https://meselmanysblog.wordpress.com/)
 
 - Technical innterests: Theory of computation and information, Advanced topics in deep learning and machine learning, with a genuine focus on computer vision prospects.
