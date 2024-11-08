@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to My GitHub Universe</h1>
+<h1 align="center">👋 Welcome to My Universe</h1>
 <h3 align="center">Passionate physicist and data scientist exploring the realms of AI and automation. Dive into my projects, where data meets creativity!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-moslemani&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-moslemani" /> </p>
