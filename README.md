@@ -20,6 +20,7 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
 
@@ -33,6 +34,7 @@
 ![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apache-spark)
+![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=apache-hadoop)
 ![Bayesian Statistics](https://img.shields.io/badge/-Bayesian%20Statistics-333333?style=flat&logo=data)
 
 ### Development & Deployment:
@@ -47,6 +49,8 @@
 
 ### Data Visualization:
 ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=python)
 
 ### Databases:
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
@@ -57,6 +61,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ---
 
@@ -85,6 +90,7 @@
 ## 📬 **Connect with Me**
 
 - 📫 **Email**: [mohamad.meselmany@hotmail.com](mailto:mohamad.meselmany@hotmail.com)
+- 🌐 **Portfolio**: [mohamedmoslemani.com](https://mohamedmoslemani.com)
 - 💼 **LinkedIn**: [mohamed-moslemani](https://linkedin.com/in/mohamed-moslemani)
 
 ---
