@@ -79,11 +79,11 @@
 ### 1️⃣ [AI-from-Scratch](https://github.com/Mohamed-Moslemani/AI-from-Scratch)  
 💡 Building machine learning algorithms from scratch to understand the core mechanics of AI.
 
-### 2️⃣ [Classical ML Projects](https://github.com/Mohamed-Moslemani/classical-ml)  
-📊 Exploring classical machine learning algorithms in-depth.
+### 2️⃣ [AI in Arabiya](https://github.com/Mohamed-Moslemani/AI-In-Arabiya)  
+📊 Introducing AI in Arabic context, for arabic speakers.
 
-### 3️⃣ [Financial Data Analytics](https://github.com/Mohamed-Moslemani/financial_data)  
-📈 Analyzing and visualizing financial data using Python.
+### 3️⃣ [Data Analysis Notebooks](https://github.com/Mohamed-Moslemani/Data-Analysis-Notebooks)  
+📈 Analyzing and visualizing different real-world data and posing solutions.
 
 ---
 
@@ -95,11 +95,13 @@
 
 ---
 
-## ✨ **Fun Facts**
+## ✨ **Fun Facts About Me**
 
-- 🎵 I enjoy **music** as much as I enjoy code.
+- 🎵 I enjoy **classical music** as much as I enjoy code.
 - 📖 Always curious about **philosophy and mathematics**.
 - 🤖 Believer in **automating life**, one task at a time!
+- 🧝🏻 Big Lord of the Rings sequel fan.
+- 📚 Favorite book: **Moonwalking with Einstein By Joshua Foer**
 
 ---
 
