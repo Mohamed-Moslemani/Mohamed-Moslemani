@@ -1,6 +1,6 @@
 # 🌟 **My GitHub Universe in a Multiverse** 🌟
 
-![Welcome](https://res.cloudinary.com/practicaldev/image/fetch/s--k9XTz6vT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--8dsEBgVb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://camo.githubusercontent.com/a1c19398a2f27e56f67a6c12a59ad173a979b06a63c681ee1a7a52f24dc4ff9f/68747470733a2f2f692e696d6775722e636f6d2f625379536343662e676966)
+![Header](./github-header-image.png)
 
 ---
 
