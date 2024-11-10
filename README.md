@@ -1,31 +1,100 @@
-<h1 align="center">👋 Welcome to My Universe</h1>
-<h3 align="center">Passionate physicist and data scientist exploring the realms of AI and automation. Dive into my projects, where data meets creativity!</h3>
+# 🌟 **My GitHub Universe in a Multiverse** 🌟
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-moslemani&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-moslemani" /> </p>
+![Welcome](https://res.cloudinary.com/practicaldev/image/fetch/s--k9XTz6vT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--8dsEBgVb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://camo.githubusercontent.com/a1c19398a2f27e56f67a6c12a59ad173a979b06a63c681ee1a7a52f24dc4ff9f/68747470733a2f2f692e696d6775722e636f6d2f625379536343662e676966)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-moslemani" alt="mohamed-moslemani" /></a> </p>
+---
 
-- 📝 I regularly write articles on [https://meselmanysblog.wordpress.com/](https://meselmanysblog.wordpress.com/)
+## 👋 Hello World!
 
-- Technical innterests: Theory of computation and information, Advanced topics in deep learning and machine learning, with a genuine focus on computer vision prospects.
+- 🎓 **Physicist | Data Scientist | Writer**
+- 🧠 Passionate about **Artificial Intelligence, Computation and Information Theory, and Theoretical Physics**  
+- 🌏 Building tools to **automate and innovate**  
+- 🌱 Always **learning and exploring** new technologies.  
+- 💬 Let's talk **science, AI, and philosophy**!  
 
-- What I do for fun: A lot of fantasy reading, a lot of fantasy movies watching, and a little writing (FYI, big fan of Lord of The Rings sequel).
+---
 
-- 📫 Reach me at **mohamad.meselmany@hotmail.com**
+## 🚀 **Skills and Tools**
 
-- ⚡ Fun fact **In 1956, the term Artificial Intelligence was first coined at the Dartmouth Conference by John McCarthy and his team, marking the birth of AI as a field. Interestingly, just a decade earlier, physicist Alan Turing laid the groundwork for AI with his concept of the "Turing Machine," which could simulate the logic of any algorithm. Physics and AI have been intertwined since the early days!**
+### Languages:
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-moslemani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-moslemani/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/msl3122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/msl3122" height="30" width="40" /></a>
-</p>
+### Data Science & Machine Learning:
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333333?style=flat&logo=tensorflow)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-333333?style=flat&logo=openai)
+![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-333333?style=flat&logo=openai)
+![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)
+![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apache-spark)
+![Bayesian Statistics](https://img.shields.io/badge/-Bayesian%20Statistics-333333?style=flat&logo=data)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Development & Deployment:
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![ETL Pipelines](https://img.shields.io/badge/-ETL%20Pipelines-333333?style=flat&logo=data)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Model Deployment](https://img.shields.io/badge/-Model%20Deployment-333333?style=flat&logo=ml)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-moslemani&show_icons=true&locale=en&layout=compact" alt="mohamed-moslemani" /></p>
+### Data Visualization:
+![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-moslemani&show_icons=true&locale=en" alt="mohamed-moslemani" /></p>
+### Databases:
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-moslemani&" alt="mohamed-moslemani" /></p>
+### Web Development:
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
+
+---
+
+## 📈 **GitHub Stats**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Moslemani&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Moslemani&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🌟 **Featured Projects**
+
+### 1️⃣ [AI-from-Scratch](https://github.com/Mohamed-Moslemani/AI-from-Scratch)  
+💡 Building machine learning algorithms from scratch to understand the core mechanics of AI.
+
+### 2️⃣ [Classical ML Projects](https://github.com/Mohamed-Moslemani/classical-ml)  
+📊 Exploring classical machine learning algorithms in-depth.
+
+### 3️⃣ [Financial Data Analytics](https://github.com/Mohamed-Moslemani/financial_data)  
+📈 Analyzing and visualizing financial data using Python.
+
+---
+
+## 📬 **Connect with Me**
+
+- 📫 **Email**: [mohamad.meselmany@hotmail.com](mailto:mohamad.meselmany@hotmail.com)
+- 💼 **LinkedIn**: [mohamed-moslemani](https://linkedin.com/in/mohamed-moslemani)
+
+---
+
+## ✨ **Fun Facts**
+
+- 🎵 I enjoy **music** as much as I enjoy code.
+- 📖 Always curious about **philosophy and mathematics**.
+- 🤖 Believer in **automating life**, one task at a time!
+
+---
+
+**🌟 Star this profile, follow along, and let's build amazing things together! 🌟**
