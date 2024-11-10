@@ -79,18 +79,19 @@
 ### 1️⃣ [AI-from-Scratch](https://github.com/Mohamed-Moslemani/AI-from-Scratch)  
 💡 Building machine learning algorithms from scratch to understand the core mechanics of AI.
 
-### 2️⃣ [AI in Arabiya](https://github.com/Mohamed-Moslemani/AI-In-Arabiya)  
-📊 Introducing AI in Arabic context, for arabic speakers.
+### 2️⃣ [Data Wizard](https://github.com/Mohamed-Moslemani/Data-Wizard)  
+📊 Automating data analysis and visualization once and for all!
 
 ### 3️⃣ [Data Analysis Notebooks](https://github.com/Mohamed-Moslemani/Data-Analysis-Notebooks)  
 📈 Analyzing and visualizing different real-world data and posing solutions.
 
+### 4️⃣ [BrainStormer](https://github.com/Mohamed-Moslemani/BrainStormer)
+💭 Brainstorming application, where you can keep track of all your great ideas.
 ---
 
 ## 📬 **Connect with Me**
 
 - 📫 **Email**: [mohamad.meselmany@hotmail.com](mailto:mohamad.meselmany@hotmail.com)
-- 🌐 **Portfolio**: [mohamedmoslemani.com](https://mohamedmoslemani.com)
 - 💼 **LinkedIn**: [mohamed-moslemani](https://linkedin.com/in/mohamed-moslemani)
 
 ---
