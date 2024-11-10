@@ -1,6 +1,6 @@
 # 🌟 **My GitHub Universe in a Multiverse** 🌟
 
-![Header](./github-header-image.png)
+![Header](./banner.png)
 
 ---
 
