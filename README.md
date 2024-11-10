@@ -87,6 +87,7 @@
 
 ### 4️⃣ [BrainStormer](https://github.com/Mohamed-Moslemani/BrainStormer)
 💭 Brainstorming application, where you can keep track of all your great ideas.
+
 ---
 
 ## 📬 **Connect with Me**
