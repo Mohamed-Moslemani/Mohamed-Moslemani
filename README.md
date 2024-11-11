@@ -1,4 +1,4 @@
-# 🌟 **My GitHub Universe in a Multiverse** 🌟
+#  **My GitHub Universe in a Multiverse** 
 
 ![Header](./bannerr.png)
 
