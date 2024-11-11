@@ -64,7 +64,6 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ---
-
 ## 📈 **GitHub Stats**
 
 <div align="center">
@@ -72,7 +71,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Moslemani&layout=compact&theme=radical&hide_border=true" />
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Moslemani&theme=radical&hide_border=true" />
+  <br />
+  <img height="180em" src="https://api.githubtrends.io/user/svg/Mohamed-Moslemani/langs?time_range=six_months&compact=True&theme=synthwaves" />
 </div>
+
 
 
 ---
