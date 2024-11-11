@@ -1,16 +1,16 @@
 #  **My GitHub Universe in a Multiverse** 
 
-![Header](./bannerr.png)
+![Header](./github-header-image.png)
 
 ---
 
-## 👋 Hello World!
+##  The Multiverse awaits below ♾️🌌
 
-- 🎓 **Physicist | Data Scientist | Writer**
-- 🧠 Passionate about **Artificial Intelligence, Computation and Information Theory, and Theoretical Physics**  
-- 🌏 Building tools to **automate and innovate**  
-- 🌱 Always **learning and exploring** new technologies.  
-- 💬 Let's talk **science, AI, and philosophy**!  
+- 🎓 **Physicist | Data Scientist | Researcher**
+- 🧠 Passionate about **Artificial Intelligence, Computation and Information Theory, applications of AI in scientific aspects.**  
+- 🌏 Building my own world of automation.
+- 🌱 Trying to climb the tree of knowledge, one branch at a time!
+- 💬 A philosopher at midnight.
 
 ---
 
@@ -103,8 +103,7 @@
 ## ✨ **Fun Facts About Me**
 
 - 🎵 I enjoy **classical music** as much as I enjoy code.
-- 📖 Always curious about **philosophy and mathematics**.
-- 🤖 Believer in **automating life**, one task at a time!
+- 📖 Mathematics keeps me up at night.
 - 🧝🏻 Big Lord of the Rings sequel fan.
 - 📚 Favorite book: **Moonwalking with Einstein By Joshua Foer**
 
