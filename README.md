@@ -1,24 +1,6 @@
 # 🌟 **My GitHub Universe in a Multiverse** 🌟
 
-<!-- Top Cloud SVG -->
-<div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" style="width:100%; height:auto;">
-    <path fill="#cce7ff" fill-opacity="1" d="M0,64L48,96C96,128,192,192,288,192C384,192,480,128,576,106.7C672,85,768,107,864,112C960,117,1056,107,1152,112C1248,117,1344,139,1392,149.3L1440,160L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
-  </svg>
-</div>
-
-<!-- Banner -->
-<div align="center">
-  ![Header](./bannerr.png)
-</div>
-
-<!-- Bottom Cloud SVG -->
-<div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" style="width:100%; height:auto;">
-    <path fill="#cce7ff" fill-opacity="1" d="M0,160L40,186.7C80,213,160,267,240,288C320,309,400,299,480,293.3C560,288,640,288,720,266.7C800,245,880,203,960,192C1040,181,1120,203,1200,218.7C1280,235,1360,245,1400,250.7L1440,256L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path>
-  </svg>
-</div>
-
+![Header](./bannerr.png)
 
 ---
 
@@ -129,3 +111,5 @@
 ---
 
 **🌟 Star this profile, follow along, and let's build amazing things together! 🌟**
+
+
