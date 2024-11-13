@@ -1,6 +1,5 @@
-<h1 align="center">
-  🌌 <span style="color: #ff5733; font-family: Arial, sans-serif;">My GitHub Universe in a Multiverse</span> 🌌
-</h1>
+![My Funky Title](./ggn.png)
+
 
 
 ![Header](./gg.png)
