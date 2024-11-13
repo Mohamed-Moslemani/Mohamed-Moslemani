@@ -1,4 +1,6 @@
-#  **My GitHub Universe in a Multiverse** 
+<h1 align="center" style="color: #3498db; font-family: 'Courier New', monospace;">
+    My GitHub Universe in a Multiverse
+</h1>
 
 ![Header](./gg.png)
 
