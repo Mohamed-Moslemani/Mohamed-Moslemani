@@ -73,7 +73,7 @@
 
 ---
 
-## 🌟 **Featured Projects**
+## 🌟 **My Legendary Quests**
 
 ### 1️⃣ [AI-from-Scratch](https://github.com/Mohamed-Moslemani/AI-from-Scratch)  
 💡 Building machine learning algorithms from scratch to understand the core mechanics of AI.
