@@ -1,5 +1,5 @@
-<h1 align="center" style="color: #ff1493; font-family: 'Comic Sans MS', cursive; font-size: 36px; text-shadow: 2px 2px #00ffff;">
-  🌟✨ <span style="background: linear-gradient(45deg, #ff1493, #00ffff); -webkit-background-clip: text; color: transparent;">My GitHub Universe in a Multiverse</span> ✨🌟
+<h1 align="center">
+  🌌 <span style="color: #ff5733; font-family: Arial, sans-serif;">My GitHub Universe in a Multiverse</span> 🌌
 </h1>
 
 
