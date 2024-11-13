@@ -105,6 +105,6 @@
 
 ---
 
-** Leave the Wizard a star, or he shall track you down 🌟🧙🏻‍♂️ **
+### **Leave the Wizard a star, or he shall track you down 🌟🧙🏻‍♂️**
 
 
