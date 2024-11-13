@@ -1,10 +1,8 @@
-![My Funky Title](./ggn.png)
+<p align="center">
+  <img src="./ggn.png" alt="My Funky Title" style="margin-right: 20px;">
+  <img src="./gg.png" alt="Header" style="margin-left: 20px;">
+</p>
 
-
-
-![Header](./gg.png)
-
----
 
 ##  The Multiverse awaits below ♾️🌌
 
