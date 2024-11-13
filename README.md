@@ -67,8 +67,8 @@
 ## 📈 **GitHub Stats**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-moslemani&show_icons=true&theme=radical" />
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-moslemani&hide=jupyter+notebook,ipynb&exclude_repo=mohamed-moslemani&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-moslemani&show_icons=true&theme=github_dark" />
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-moslemani&hide=jupyter+notebook,ipynb,proc+file&exclude_repo=mohamed-moslemani&layout=compact&theme=github_dark" />
 </div>
 
 
