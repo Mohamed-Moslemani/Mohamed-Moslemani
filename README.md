@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./ghfg.jpg" alt="Header" style="margin-left: 20px;">
+  <img src="./ghfg.jpg" alt="Header" width="100%">
 </p>
-
 
 ##  The Multiverse awaits below ♾️🌌
 
