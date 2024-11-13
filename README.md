@@ -2,7 +2,7 @@
   <img src="./ghfg.jpg" alt="Header" width="100%">
 </p>
 
-##  ** Pass the Enchanted Forest Lightly ** ˚˖𓍢ִ໋🍃˚.⛰️⋆☁️
+##  **Pass the Enchanted Forest Lightly** ˚˖𓍢ִ໋🍃˚.⛰️⋆☁️
 
 - 🎓 **Physicist | Data Scientist | Researcher**
 - 🧠 Passionate about **Artificial Intelligence, Computation and Information Theory, applications of AI in scientific aspects.**  
@@ -12,7 +12,7 @@
 
 ---
 
-##  ** Abilities and Relics 🛡️**
+##  **Abilities and Relics 🛡️**
 
 ### Languages:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
