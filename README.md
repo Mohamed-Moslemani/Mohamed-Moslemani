@@ -2,17 +2,17 @@
   <img src="./ghfg.jpg" alt="Header" width="100%">
 </p>
 
-##  The Multiverse awaits below ♾️🌌
+##  ** Pass the Enchanted Forest Lightly ** ˚˖𓍢ִ໋🍃˚.⛰️⋆☁️
 
 - 🎓 **Physicist | Data Scientist | Researcher**
 - 🧠 Passionate about **Artificial Intelligence, Computation and Information Theory, applications of AI in scientific aspects.**  
-- 🌏 Building my own world of automation.
+- 🌏 Building my own realm, in a thread full of imagination.
 - 🌱 Trying to climb the tree of knowledge, one branch at a time!
 - 💬 A philosopher at midnight.
 
 ---
 
-## 🚀 **Skills and Tools**
+##  ** Abilities and Relics 🛡️**
 
 ### Languages:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -62,7 +62,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ---
-## 📈 **GitHub Stats**
+## 📈 **Stats of the GitHub Realm**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-moslemani&show_icons=true&theme=github_dark" />
@@ -89,22 +89,22 @@
 
 ---
 
-## 📬 **Connect with Me**
+## 📬 **Forge your fellowship with me**
 
 - 📫 **Email**: [mohamad.meselmany@hotmail.com](mailto:mohamad.meselmany@hotmail.com)
 - 💼 **LinkedIn**: [mohamed-moslemani](https://linkedin.com/in/mohamed-moslemani)
 
 ---
 
-## ✨ **Fun Facts About Me**
+## ✨ **Who Am I, or What am I?**
 
 - 🎵 I enjoy **classical music** as much as I enjoy code.
 - 📖 Mathematics keeps me up at night.
-- 🧝🏻 Big Lord of the Rings sequel fan.
-- 📚 Favorite book: **Moonwalking with Einstein By Joshua Foer**
+- 🧝🏻 Big Lord of the Rings sequel fan, as you can tell.
+- 📚 Current Favorite book: **Moonwalking with Einstein By Joshua Foer**
 
 ---
 
-**🌟 Star this profile, follow along, and let's build amazing things together! 🌟**
+** Leave the Wizard a star, or he shall track you down 🌟🧙🏻‍♂️ **
 
 
