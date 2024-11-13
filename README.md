@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="./ggn.png" alt="My Funky Title" style="margin-right: 20px;">
   <img src="./ghfg.jpg" alt="Header" style="margin-left: 20px;">
 </p>
 
