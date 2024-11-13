@@ -67,10 +67,8 @@
 ## 📈 **GitHub Stats**
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-moslemani&show_icons=true&theme=radical)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-moslemani&show_icons=true&theme=radical" />
-  <br /><br />
-  <img height="180em" src="https://api.githubtrends.io/user/svg/Mohamed-Moslemani/langs?time_range=six_months&compact=True&theme=synthwaves" />
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-moslemani&hide=jupyter+notebook,ipynb&exclude_repo=mohamed-moslemani&layout=compact" />
 </div>
 
 
