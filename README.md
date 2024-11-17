@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./My Github Universe in My Multiverse.gif" alt="Header" width="100%">
+  <img src="./ghfg.jpg" alt="Header" width="100%">
 </p>
-
 
 ## Pass the enchanted forest lightly ✩°𓏲⋆🌿. ⋆⸜ 🍵✮˚
 - 🎓 **Physicist | Data Scientist | Researcher**
