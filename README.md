@@ -2,9 +2,10 @@
   <img src="./ghfg.jpg" alt="Header" width="100%">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="./Pass The Enchanted Forest Calmly.png" alt="Header" width="100%">
 </p>
+##
 - 🎓 **Physicist | Data Scientist | Researcher**
 - 🧠 Passionate about **Artificial Intelligence, Computation and Information Theory, applications of AI in scientific aspects.**  
 - 🌏 Building my own realm, in a thread full of imagination.
