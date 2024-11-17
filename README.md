@@ -64,7 +64,7 @@
 ## 📈 **Stats of the GitHub Realm**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-moslemani&show_icons=true&theme=shadow_green" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-moslemani&show_icons=true&theme=shadow_green&exclude_repo=mohamed-moslemani" />
   <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-moslemani&hide=jupyter+notebook,ipynb,procfile,html&exclude_repo=mohamed-moslemani&layout=compact&theme=shadow_green" />
 </div>
 
