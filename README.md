@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ghfg.jpg" alt="Header" width="100%">
+  <img src="./My Github Universe in My Multiverse (2).png" alt="Header" width="100%">
 </p>
 
 ## Pass the enchanted forest lightly ✩°𓏲⋆🌿. ⋆⸜ 🍵✮˚
