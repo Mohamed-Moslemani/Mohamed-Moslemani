@@ -65,7 +65,10 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ---
-## 📈 **Stats of the GitHub Realm**
+<p align="center">
+  <img src="./rr.png" alt="Header" width="100%">
+</p>
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-moslemani&show_icons=true&theme=shadow_green&exclude_repo=mohamed-moslemani" />
@@ -76,7 +79,10 @@
 
 ---
 
-## 🌟 **My Legendary Quests**
+<p align="center">
+  <img src="./dds.png" alt="Header" width="100%">
+</p>
+
 
 ### 1️⃣ [AI-from-Scratch](https://github.com/Mohamed-Moslemani/AI-from-Scratch)  
 💡 Building machine learning algorithms from scratch to understand the core mechanics of AI.
@@ -92,14 +98,22 @@
 
 ---
 
-## 📬 **Forge your fellowship with me**
+<p align="center">
+  <img src="./dssv.png" alt="Header" width="100%">
+</p>
+
+
 
 - 📫 **Email**: [mohamad.meselmany@hotmail.com](mailto:mohamad.meselmany@hotmail.com)
 - 💼 **LinkedIn**: [mohamed-moslemani](https://linkedin.com/in/mohamed-moslemani)
 
 ---
 
-## ✨ **Who Am I, or What am I?**
+<p align="center">
+  <img src="./aaa.png" alt="Header" width="100%">
+</p>
+
+
 
 - 🎵 I enjoy **classical music** as much as I enjoy code.
 - 📖 Mathematics keeps me up at night.
