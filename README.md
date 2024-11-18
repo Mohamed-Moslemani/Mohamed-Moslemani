@@ -2,7 +2,10 @@
   <img src="./My Github Universe in My Multiverse (2).png" alt="Header" width="100%">
 </p>
 
-## Pass the enchanted forest lightly ✩°𓏲⋆🌿. ⋆⸜ 🍵✮˚
+<p align="center">
+  <img src="./tst.png" alt="Header" width="100%">
+</p>
+
 - 🎓 **Physicist | Data Scientist | Researcher**
 - 🧠 Passionate about **Artificial Intelligence, Computation and Information Theory, applications of AI in scientific aspects.**  
 - 🌏 Building my own realm, in a thread full of imagination.
