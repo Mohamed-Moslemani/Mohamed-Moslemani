@@ -93,8 +93,8 @@
 ### 3️⃣ [Data Analysis Notebooks](https://github.com/Mohamed-Moslemani/Data-Analysis-Notebooks)  
 📈 Analyzing and visualizing different real-world data and posing solutions.
 
-### 4️⃣ [BrainStormer](https://github.com/Mohamed-Moslemani/BrainStormer)
-💭 Brainstorming application, where you can keep track of all your great ideas.
+### 4️⃣ [Memory Palace](https://github.com/Mohamed-Moslemani/Memory-Palace)
+💭 Never forget an idea, never forget a password, enhanced, with the flow of a keyboard.
 
 ---
 
