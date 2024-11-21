@@ -87,7 +87,7 @@
 ### 1️⃣ [AI-from-Scratch](https://github.com/Mohamed-Moslemani/AI-from-Scratch)  
 💡 Building machine learning algorithms from scratch to understand the core mechanics of AI.
 
-### 2️⃣ [Data Wizard](https://github.com/Mohamed-Moslemani/Data-Wizard)  
+### 2️⃣ [Qouvent](https://github.com/Mohamed-Moslemani/Data-Wizard)  
 📊 Automating data analysis and visualization once and for all!
 
 ### 3️⃣ [Data Analysis Notebooks](https://github.com/Mohamed-Moslemani/Data-Analysis-Notebooks)  
