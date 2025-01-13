@@ -7,7 +7,7 @@
 </p>
 
 - 🎓 **Physicist | Data Scientist | Researcher**
-- 🧠 Passionate about **Artificial Intelligence, Computation and Information Theory, applications of AI in scientific aspects.**  
+- 🧠 Passionate about **Computer Vision, applications of AI in businesses, and theoretical and practical applications of different AI concepts.**  
 - 🌏 Building my own realm, in a thread full of imagination.
 - 🌱 Trying to climb the tree of knowledge, one branch at a time!
 - 💬 A philosopher at midnight.
