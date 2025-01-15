@@ -6,11 +6,9 @@
   <img src="./tst.png" alt="Header" width="100%">
 </p>
 
-- 🎓 **Physicist | Data Scientist | Researcher**
+- 🎓 **Data Scientist | Data Analyst**
 - 🧠 Passionate about **Computer Vision, applications of AI in businesses, and theoretical and practical applications of different AI concepts.**  
-- 🌏 Building my own realm, in a thread full of imagination.
-- 🌱 Trying to climb the tree of knowledge, one branch at a time!
-- 💬 A philosopher at midnight.
+
 
 ---
 <p align="center">
