@@ -6,8 +6,7 @@
   <img src="./tst.png" alt="Header" width="100%">
 </p>
 
-- 🎓 **Data Scientist | Data Analyst**
-- 🧠 Passionate about **Computer Vision, applications of AI in businesses, and theoretical and practical applications of different AI concepts.**  
+🧠 Passionate about **Computer Vision, applications of AI in businesses, and theoretical and practical applications of different AI concepts.**  
 
 
 ---
