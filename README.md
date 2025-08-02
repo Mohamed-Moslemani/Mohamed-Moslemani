@@ -101,7 +101,7 @@
 
 
 
-- 📫 **Email**: [moslemanomohamed@gmail.com(mailto:mohamad.meselmany@hotmail.com)
+- 📫 **Email**: moslemanomohamed@gmail.com
 - 💼 **LinkedIn**: [mohamed-moslemani](https://linkedin.com/in/mohamed-moslemani)
 
 ---
