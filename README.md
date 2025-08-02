@@ -115,7 +115,7 @@
 - 🎵 I enjoy **classical music** as much as I enjoy code.
 - 📖 Mathematics keeps me up at night.
 - 🧝🏻 Big Lord of the Rings sequel fan, as you can tell.
-- 📚 Current Favorite book: **Moonwalking with Einstein By Joshua Foer**
+- 📚 Current Favorite book: **Prozac Diary by Lauren Slater**
 
 ---
 
