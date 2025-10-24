@@ -20,23 +20,23 @@ My professional objective is to connect academic research in artificial intellig
 ### Technical Expertise
 
 **Programming Languages**  
-Python | R | Java | JavaScript | SQL  
+Python | R | java | javascript   
 
 **Machine Learning and Data Science**  
 Deep Learning | Computer Vision | Natural Language Processing | Bayesian Statistics  
 TensorFlow | Keras | PyTorch | Scikit-learn | pandas | NumPy | Apache Spark | Hadoop  
 
 **Development and Deployment**  
-FastAPI | Flask | Django | ETL Pipelines | Docker | Git | AWS | Model Deployment  
+FastAPI | Flask | Django | ETL Pipelines | Docker | Git | AWS | Model Deployment | Kuberenetes
 
 **Data Visualization**  
 Plotly | Matplotlib | Seaborn  
 
 **Databases**  
-SQL | MongoDB  
+SQL | MongoDB | Postgre  
 
-**Web Development**  
-HTML5 | CSS | Bootstrap | Tailwind CSS | React  
+**Frontend Stack**  
+HTML5 | CSS | Tailwind CSS | React  
 
 ---
 
