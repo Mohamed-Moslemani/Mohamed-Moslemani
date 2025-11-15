@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Mohamed Moslemani</h1>
+<h1 align="center">Mohamed Moslemani</h1>
 
 <p align="center">
   <strong>Machine Learning Researcher | Data Scientist | Technical Consultant</strong><br>
@@ -7,41 +7,50 @@
 
 <br>
 
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=24&center=true&vCenter=true&width=650&lines=Machine+Learning+Researcher;Computational+Science+at+AUB;AI+Engineer+%7C+Data+Virtualization;Building+Agentic+Systems;Chaos+Theory+and+AI+Behavior" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=24&center=true&vCenter=true&width=650&lines=Machine+Learning+Researcher;Computational+Science+at+AUB;AI+Engineer+%7C+Data+Virtualization;Building+Agentic+Systems;Chaos+Theory+and+AI+Behavior;Numerical+Optimization+and+Inference" />
 </p>
 
 <br>
 
-## 🧠 About
+## About
 
 I work on applied machine learning, agentic systems, numerical methods, and real-world data engineering.  
 I’m a Technical Consultant at **Quantech SAL**, where I build AI systems for banking, analytics, and enterprise automation.
 
-I’m also completing a **Master’s in Computational Science at AUB** (full scholarship), focusing on probabilistic modeling, optimization, and the mathematical behavior of learning systems.
+I’m also completing a **Master’s in Computational Science at AUB** (full scholarship), focusing on probabilistic modeling, optimization, and the mathematical behavior of learning algorithms.
 
-The target is simple: make practical AI that isn’t fragile.
+My focus is on connecting theoretical AI foundations with production-grade engineering.
 
 <br>
 
-## 🔧 Current Work
+## Current Work
 
-- Multi-agent banking automation (FastAgent, LangGraph, MongoDB, Milvus)  
+- Agentic banking automation (FastAgent, LangGraph, MongoDB, Milvus)  
 - Retrieval systems for Lebanese financial documents  
-- Python/VBA automation for multi-company financial consolidation  
-- Graduate Assistant: Data Science (CMPS 262) at AUB  
-- Research on chaos-theoretic structures in human behavior modeling  
+- Python/VBA automation for multi-company P&L consolidation  
+- Graduate Assistant for Data Science (CMPS 262) at AUB  
+- Research into chaos-theoretic structures in human and system behavior  
 
 <br>
 
-## ⚙️ Tech Stack  
+## Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,linux,git,aws,mongodb,postgresql,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter,pytorch,tensorflow,sklearn,fastapi,docker,linux,git,aws,mongodb,postgresql,react,tailwind" />
 </p>
 
 <br>
 
-## 📊 GitHub Analytics
+## Activity & Analytics
+
+<p align="center">
+  <!-- Real-time GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-moslemani&theme=tokyo-night&hide_border=true" />
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-moslemani&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -54,7 +63,36 @@ The target is simple: make practical AI that isn’t fragile.
 
 <br>
 
-## 📬 Contact
+## Dynamic Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Profile Views</strong><br><br>
+      <img src="https://komarev.com/ghpvc/?username=mohamed-moslemani&color=6A5ACD&style=flat-square">
+    </td>
+    <td align="center">
+      <strong>Random Dev Quote</strong><br><br>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Skills Overview (Interactive Badges)
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-Expert-6A5ACD?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Computer%20Vision-Experienced-6A5ACD?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/NLP-Experienced-6A5ACD?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Data%20Engineering-Advanced-6A5ACD?style=for-the-badge"/></a>
+</p>
+
+<br>
+
+## Contact
+
 <p align="center">
   <a href="mailto:moslemanomohamed@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   &nbsp;&nbsp;
@@ -64,5 +102,5 @@ The target is simple: make practical AI that isn’t fragile.
 ---
 
 <p align="center">
-  <i>Studying math, classical music, and the cognitive edges of artificial intelligence.</i>
+  <i>Studying mathematics, classical music, and the computational behavior of intelligent systems.</i>
 </p>
