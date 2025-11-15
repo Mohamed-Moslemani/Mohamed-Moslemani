@@ -67,7 +67,7 @@ Probabilistic modeling, optimization algorithms, structures in intelligent syste
 
 ### **DevOps & Cloud**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,git,github,linux,nginx" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,nginx" alt="DevOps" />
 </p>
 
 ### **Frontend & Visualization**
@@ -79,7 +79,6 @@ Probabilistic modeling, optimization algorithms, structures in intelligent syste
 ### **Tools & IDEs**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,vim,postman" alt="Tools" />
-  <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
