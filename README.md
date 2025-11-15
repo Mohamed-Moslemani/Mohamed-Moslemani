@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Mohamed Moslemani
+# Mohamed Moslemani
 
 ### Machine Learning Researcher • Data Scientist • Technical Consultant
 
@@ -14,41 +14,19 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I specialize in **applied machine learning**, **agentic systems**, **numerical methods**, and **real-world data engineering**, bridging theoretical AI foundations with production-grade implementations.
+I specialize in **applied machine learning**, **agentic systems**, **numerical methods**, and **data engineering**, bridging theoretical AI foundations with production-grade implementations.
 
 **Current Position:**  
-🏢 **Technical Consultant** at **Quantech SAL** — Building AI systems for banking, analytics, and enterprise automation
+🏢 **Technical Consultant** at **Quantech SAL**, part of Midis Group and the strategic partner of **IBM** at Lebanon - Building systems for banking, analytics, and enterprise systems.
 
 **Education:**  
-🎓 **Master's in Computational Science** at **American University of Beirut (AUB)** — Full scholarship recipient  
-📚 **Graduate Assistant** for Data Science (CMPS 262)
+ **Master's in Computational Science** at **American University of Beirut (AUB)** - Full scholarship recipient  
+ **Graduate Assistant and Assistant Instructor** for Data Science in python and R (CMPS 262)
 
 **Research Focus:**  
-Probabilistic modeling, optimization algorithms, chaos-theoretic structures in intelligent systems, and the mathematical behavior of learning algorithms.
-
----
-
-## 💼 Current Projects
-
-```mermaid
-graph LR
-    A[🤖 Agentic Banking Systems] --> B[FastAgent + LangGraph]
-    A --> C[MongoDB + Milvus Vector DB]
-    D[📄 Document Retrieval] --> E[Lebanese Financial Docs]
-    F[⚙️ Automation] --> G[Python/VBA P&L Consolidation]
-    H[🎓 Teaching] --> I[Data Science TA at AUB]
-    J[🔬 Research] --> K[Chaos Theory in AI Behavior]
-```
-
-- 🏦 **Agentic Banking Automation** — FastAgent, LangGraph, MongoDB, Milvus
-- 🔍 **Retrieval-Augmented Systems** — Document processing for Lebanese financial institutions
-- 📊 **Enterprise Automation** — Multi-company P&L consolidation (Python/VBA)
-- 👨‍🏫 **Graduate Teaching Assistant** — Data Science (CMPS 262) at AUB
-- 🧠 **Chaos Theory Research** — Exploring emergent patterns in human and system behavior
-
----
+Probabilistic modeling, optimization algorithms, structures in intelligent systems, and the mathematical behavior of learning algorithms.
 
 ## 🛠️ Technical Stack
 
@@ -125,7 +103,7 @@ graph LR
 
 ---
 
-## 🎓 Expertise Areas
+## Expertise Areas
 
 <table align="center">
   <tr>
@@ -160,7 +138,7 @@ graph LR
 
 ---
 
-## 📈 Profile Insights
+## Profile Insights
 
 <div align="center">
 
@@ -174,7 +152,7 @@ graph LR
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -185,10 +163,10 @@ graph LR
 </div>
 
 ---
-
+## A bit of me
 <div align="center">
 
-### 🎵 *"Studying mathematics, classical music, and the computational behavior of intelligent systems."*
+### *"To love and to be loved, to leave something behind, to the world, to a peaceful life with a nice garden."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" width="100%"/>
 
