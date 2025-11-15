@@ -93,7 +93,7 @@ Probabilistic modeling, optimization algorithms, structures in intelligent syste
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohamed-moslemani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-moslemani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-moslemani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" height="170" alt="Top Languages"/>
 
 <br>
 
