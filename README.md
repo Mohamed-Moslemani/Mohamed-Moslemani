@@ -51,7 +51,6 @@ My focus is on connecting theoretical AI foundations with production-grade engin
 
 <br>
 
-## Dynamic Stats
 
 <table align="center">
   <tr>
