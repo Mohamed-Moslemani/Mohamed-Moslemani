@@ -1,202 +1,195 @@
-<h1 align="center">Mohamed Moslemani</h1>
+<div align="center">
 
+# 👨‍💻 Mohamed Moslemani
+
+### Machine Learning Researcher • Data Scientist • Technical Consultant
+
+[![Location](https://img.shields.io/badge/📍_Beirut,_Lebanon-6A5ACD?style=for-the-badge)](https://www.google.com/maps/place/Beirut)
+[![Email](https://img.shields.io/badge/Email-moslemanomohamed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moslemanomohamed@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-moslemani)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=650&lines=Machine+Learning+Researcher;Computational+Science+%40+AUB;AI+Engineer+%7C+Data+Virtualization;Building+Agentic+Systems;Chaos+Theory+%26+AI+Behavior;Numerical+Optimization+%26+Inference" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🎯 About Me
+
+I specialize in **applied machine learning**, **agentic systems**, **numerical methods**, and **real-world data engineering**, bridging theoretical AI foundations with production-grade implementations.
+
+**Current Position:**  
+🏢 **Technical Consultant** at **Quantech SAL** — Building AI systems for banking, analytics, and enterprise automation
+
+**Education:**  
+🎓 **Master's in Computational Science** at **American University of Beirut (AUB)** — Full scholarship recipient  
+📚 **Graduate Assistant** for Data Science (CMPS 262)
+
+**Research Focus:**  
+Probabilistic modeling, optimization algorithms, chaos-theoretic structures in intelligent systems, and the mathematical behavior of learning algorithms.
+
+---
+
+## 💼 Current Projects
+
+```mermaid
+graph LR
+    A[🤖 Agentic Banking Systems] --> B[FastAgent + LangGraph]
+    A --> C[MongoDB + Milvus Vector DB]
+    D[📄 Document Retrieval] --> E[Lebanese Financial Docs]
+    F[⚙️ Automation] --> G[Python/VBA P&L Consolidation]
+    H[🎓 Teaching] --> I[Data Science TA at AUB]
+    J[🔬 Research] --> K[Chaos Theory in AI Behavior]
+```
+
+- 🏦 **Agentic Banking Automation** — FastAgent, LangGraph, MongoDB, Milvus
+- 🔍 **Retrieval-Augmented Systems** — Document processing for Lebanese financial institutions
+- 📊 **Enterprise Automation** — Multi-company P&L consolidation (Python/VBA)
+- 👨‍🏫 **Graduate Teaching Assistant** — Data Science (CMPS 262) at AUB
+- 🧠 **Chaos Theory Research** — Exploring emergent patterns in human and system behavior
+
+---
+
+## 🛠️ Technical Stack
+
+### **Languages**
 <p align="center">
-  <strong>Machine Learning Researcher | Data Scientist | Technical Consultant</strong><br>
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,javascript,typescript,bash" alt="Languages" />
 </p>
+
+### **Machine Learning & AI**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="ML Frameworks" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge" />
+</p>
+
+### **Data Science & Analysis**
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### **Backend & APIs**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" alt="Backend" />
+</p>
+
+### **Databases & Vector Stores**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" alt="Databases" />
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
+</p>
+
+### **DevOps & Cloud**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,git,github,linux,nginx" alt="DevOps" />
+</p>
+
+### **Frontend & Visualization**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+### **Tools & IDEs**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,vim,postman" alt="Tools" />
+  <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-moslemani&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed-moslemani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-moslemani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=24&center=true&vCenter=true&width=750&lines=Machine+Learning+Researcher;Computational+Science+at+AUB;AI+Engineering+and+Numerical+Methods;Agentic+Systems+%7C+RAG+Pipelines;Chaos+Theory+and+Behavior+Modeling" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mohamed-moslemani&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak"/>
 
-<br>
-
-## About
-
-I work on applied machine learning, agentic systems, numerical methods, and real-world data engineering.  
-I'm a Technical Consultant at **Quantech SAL**, where I design and deploy AI systems for banking, automation, and enterprise data infrastructure.
-
-I’m also completing a **Master’s in Computational Science at AUB** (full scholarship), focusing on optimization, probabilistic modeling, numerical inference, and theoretical aspects of intelligent systems.
-
-My work bridges academic research with production-grade AI engineering.
-
-<br>
-
-
-## Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,r,java,javascript,html,css" />
-</p>
-
-- Python  
-- Jupyter Notebook  
-- R  
-- Java  
-- JavaScript  
-- HTML5  
-- CSS3  
+</div>
 
 ---
 
-## Machine Learning & AI
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-</p>
-
-- Deep Learning  
-- Computer Vision  
-- NLP  
-- Bayesian Statistics  
-- Optimization  
-- Numerical Methods  
-- Model Interpretability  
-- Scientific Computing  
-
-**Frameworks & Libraries:**  
-- PyTorch  
-- TensorFlow  
-- Keras  
-- Scikit-learn  
-- NumPy  
-- pandas  
-- SciPy  
-- OpenCV  
-- SentenceTransformers  
-- Whisper STT (Faster-Whisper)  
-- LangChain (legacy components)  
-- LangGraph  
-- FastAgent  
-
----
-
-## Data Engineering & Big Data
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spark" />
-</p>
-
-- ETL Pipelines  
-- Data Virtualization  
-- Apache Spark  
-- Hadoop  
-- Multi-source ingestion  
-- Excel automation (Python + VBA)
-
----
-
-## Databases & Storage
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-</p>
-
-- MongoDB  
-- PostgreSQL  
-- SQL  
-- Milvus Vector Database  
-- File-based storage pipelines  
-- Indexing & embedding retrieval systems  
-
----
-
-## Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django" />
-</p>
-
-- FastAPI  
-- Flask  
-- Django  
-- REST APIs  
-- Authentication & Authorization  
-- Keycloak integration  
-- Slack bot integrations  
-- Twilio APIs  
-
----
-
-## DevOps & Deployment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,aws,kubernetes" />
-</p>
-
-- Docker  
-- Linux (Arch, Mint)  
-- Git  
-- GitHub Actions  
-- AWS  
-- Kubernetes  
-- Containerized AI systems  
-- MLOps for internal deployments  
-
----
-
-## Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
-
-- React  
-- Tailwind CSS  
-- HTML5  
-- CSS3  
-- JS-based dashboards/UX for internal tools  
-
----
-
-## Data Visualization
-
-- Plotly  
-- Matplotlib  
-- Seaborn  
-
----
-
-# Activity & Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-moslemani&theme=tokyo-night&hide_border=true" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-moslemani&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-moslemani&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamed-moslemani&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
+## 🎓 Expertise Areas
 
 <table align="center">
   <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Machine_Learning-Expert-6A5ACD?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+      <br><sub>Neural Networks, Deep Learning, MLOps</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Computer_Vision-Advanced-6A5ACD?style=for-the-badge&logo=opencv&logoColor=white"/>
+      <br><sub>Image Processing, Object Detection</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/NLP-Advanced-6A5ACD?style=for-the-badge&logo=openai&logoColor=white"/>
+      <br><sub>LLMs, RAG Systems, Embeddings</sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
-      <strong>Profile Views</strong><br><br>
-      <img src="https://komarev.com/ghpvc/?username=mohamed-moslemani&color=6A5ACD&style=flat-square">
+      <img src="https://img.shields.io/badge/Data_Engineering-Expert-6A5ACD?style=for-the-badge&logo=apache&logoColor=white"/>
+      <br><sub>ETL Pipelines, Data Architecture</sub>
     </td>
     <td align="center">
-      <strong>Quote of the day</strong><br><br>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+      <img src="https://img.shields.io/badge/Agentic_Systems-Advanced-6A5ACD?style=for-the-badge&logo=robot&logoColor=white"/>
+      <br><sub>LangGraph, AutoGen, Multi-Agent</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Numerical_Methods-Expert-6A5ACD?style=for-the-badge&logo=wolframmathematica&logoColor=white"/>
+      <br><sub>Optimization, Scientific Computing</sub>
     </td>
   </tr>
 </table>
 
+---
+
+## 📈 Profile Insights
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohamed-moslemani&color=6A5ACD&style=for-the-badge&label=PROFILE+VIEWS)
+
 <br>
 
-# Contact
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
-<p align="center">
-  <a href="mailto:moslemanomohamed@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mohamed-moslemani"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-</p>
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-moslemanomohamed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moslemanomohamed@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--moslemani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-moslemani)
+[![GitHub](https://img.shields.io/badge/GitHub-mohamed--moslemani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-moslemani)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎵 *"Studying mathematics, classical music, and the computational behavior of intelligent systems."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" width="100%"/>
+
+</div>
