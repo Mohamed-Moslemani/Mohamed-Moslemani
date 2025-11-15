@@ -40,8 +40,10 @@ Probabilistic modeling, optimization algorithms, structures in intelligent syste
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="ML Frameworks" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge" />
+    <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://img.shields.io/badge/Transformers-181717?style=for-the-badge&logo=python&logoColor=white" />
+
+
 </p>
 
 ### **Data Science & Analysis**
