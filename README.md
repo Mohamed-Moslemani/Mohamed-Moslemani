@@ -1,13 +1,12 @@
 <h1 align="center">Mohamed Moslemani</h1>
 
 <p align="center">
-  <strong>Machine Learning Researcher | Data Scientist | Technical Consultant</strong><br>
+  <strong>Machine Learning Researcher | Data Scientist | Systems Engineer</strong><br>
   Beirut, Lebanon
 </p>
 
 <br>
 
-<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=24&center=true&vCenter=true&width=650&lines=Machine+Learning+Researcher;Computational+Science+at+AUB;AI+Engineer+%7C+Data+Virtualization;Building+Agentic+Systems;Chaos+Theory+and+AI+Behavior;Numerical+Optimization+and+Inference" />
 </p>
@@ -17,21 +16,11 @@
 ## About
 
 I work on applied machine learning, agentic systems, numerical methods, and real-world data engineering.  
-I’m a Technical Consultant at **Quantech SAL**, where I build AI systems for banking, analytics, and enterprise automation.
+I’m a Technical Consultant at **Quantech SAL**, part of Midis Group and strategic partner of **IBM**, where I build and deploy systems and tech solutions for banking, analytics, and enterprise automation.
 
 I’m also completing a **Master’s in Computational Science at AUB** (full scholarship), focusing on probabilistic modeling, optimization, and the mathematical behavior of learning algorithms.
 
 My focus is on connecting theoretical AI foundations with production-grade engineering.
-
-<br>
-
-## Current Work
-
-- Agentic banking automation (FastAgent, LangGraph, MongoDB, Milvus)  
-- Retrieval systems for Lebanese financial documents  
-- Python/VBA automation for multi-company P&L consolidation  
-- Graduate Assistant for Data Science (CMPS 262) at AUB  
-- Research into chaos-theoretic structures in human and system behavior  
 
 <br>
 
@@ -46,7 +35,6 @@ My focus is on connecting theoretical AI foundations with production-grade engin
 ## Activity & Analytics
 
 <p align="center">
-  <!-- Real-time GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-moslemani&theme=tokyo-night&hide_border=true" />
 </p>
 
@@ -80,7 +68,7 @@ My focus is on connecting theoretical AI foundations with production-grade engin
 
 <br>
 
-## Skills Overview (Interactive Badges)
+## Skills Overview
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-Expert-6A5ACD?style=for-the-badge"/></a>
@@ -100,7 +88,3 @@ My focus is on connecting theoretical AI foundations with production-grade engin
 </p>
 
 ---
-
-<p align="center">
-  <i>Studying mathematics, classical music, and the computational behavior of intelligent systems.</i>
-</p>
