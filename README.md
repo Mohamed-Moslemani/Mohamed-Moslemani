@@ -19,7 +19,7 @@
 I specialize in **applied machine learning**, **agentic systems**, **numerical methods**, and **data engineering**, bridging theoretical AI foundations with production-grade implementations.
 
 **Current Position:**  
-🏢 **Technical Consultant** at **Quantech SAL**, part of Midis Group and the strategic partner of **IBM** at Lebanon - Building systems for banking, analytics, and enterprise systems.
+ **Technical Consultant** at **Quantech SAL**, part of Midis Group and the strategic partner of **IBM** at Lebanon - Building systems for banking, analytics, and enterprise systems.
 
 **Education:**  
  **Master's in Computational Science** at **American University of Beirut (AUB)** - Full scholarship recipient  
@@ -28,7 +28,7 @@ I specialize in **applied machine learning**, **agentic systems**, **numerical m
 **Research Focus:**  
 Probabilistic modeling, optimization algorithms, structures in intelligent systems, and the mathematical behavior of learning algorithms.
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### **Languages**
 <p align="center">
@@ -84,7 +84,7 @@ Probabilistic modeling, optimization algorithms, structures in intelligent syste
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -166,7 +166,7 @@ Probabilistic modeling, optimization algorithms, structures in intelligent syste
 ## A bit of me
 <div align="center">
 
-### *"To love and to be loved, to leave something behind, to the world, to peacefulness with a nice garden in a far away place, that is, life."*
+### *"To love and to be loved, to leave something behind, to the world, to peacefulness with a garden in a far away place."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" width="100%"/>
 
