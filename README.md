@@ -32,7 +32,7 @@ Probabilistic modeling, optimization algorithms, structures in intelligent syste
 
 ### **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,javascript,typescript,bash" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,javascript,bash" alt="Languages" />
 </p>
 
 ### **Machine Learning & AI**
