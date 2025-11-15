@@ -166,7 +166,7 @@ Probabilistic modeling, optimization algorithms, structures in intelligent syste
 ## A bit of me
 <div align="center">
 
-### *"To love and to be loved, to leave something behind, to the world, to a peaceful life with a nice garden."*
+### *"To love and to be loved, to leave something behind, to the world, to peacefulness with a nice garden in a far away place, that is, life."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" width="100%"/>
 
