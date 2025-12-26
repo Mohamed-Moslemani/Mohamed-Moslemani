@@ -2,7 +2,7 @@
 
 # Mohamed Moslemani
 
-### Machine Learning Researcher • Data Scientist • Technical Consultant
+### Engineer • Machine Learning Researcher • Data Scientist 
 
 [![Location](https://img.shields.io/badge/📍_Beirut,_Lebanon-6A5ACD?style=for-the-badge)](https://www.google.com/maps/place/Beirut)
 [![Email](https://img.shields.io/badge/Email-moslemanomohamed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moslemanomohamed@gmail.com)
