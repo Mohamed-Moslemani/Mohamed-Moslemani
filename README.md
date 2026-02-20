@@ -19,7 +19,7 @@
 I specialize in **applied machine learning**, **agentic systems**, **numerical methods**, and **data engineering**, bridging theoretical AI foundations with production-grade implementations.
 
 **Current Position:**  
- **Technical Consultant** at **Quantech SAL**, part of Midis Group and the strategic partner of **IBM** at Lebanon - Building systems for banking, analytics, and enterprise systems.
+ **AI Engineer** at **Strategy&**, part of PwC Network - With a focus on forecasting, ML in production, and Agentic systems development, in a constrained environment.
 
 **Education:**  
  **Master's in Computational Science** at **American University of Beirut (AUB)** - Full scholarship recipient  
