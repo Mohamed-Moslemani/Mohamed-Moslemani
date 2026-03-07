@@ -26,7 +26,7 @@ I specialize in **applied machine learning**, **agentic systems**, **numerical m
  **Graduate Assistant and Assistant Instructor** for Data Science in python and R (CMPS 262)
 
 **Research Focus:**  
-Probabilistic modeling, optimization algorithms, structures in intelligent systems, and the mathematical behavior of learning algorithms.
+Data distribution shifts and its effect on modeling practices, with a focus on studying how test distribution shifts affects the generalizations of a training distribution.
 
 ## Technical Stack
 
